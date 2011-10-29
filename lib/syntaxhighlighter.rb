@@ -2,7 +2,7 @@ module Redmine
   module SyntaxHighlighting
     module JsSyntaxHighlighter
 	  SETTING_KEY_THEME = "JsSyntaxHighlighter Theme"
-	  DEFAULT_THEME = "Default"
+	  DEFAULT_THEME = "Midnight"
 	  THEMES = %w[
 	    Default
 		Django
